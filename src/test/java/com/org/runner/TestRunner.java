@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = {  "src/test/java/com/org/features"  },
 		glue = {"com/org/stepdefinition"},		
 		tags ="@rahul",
-		dryRun = false
+		dryRun = true
 	
 		)
 
