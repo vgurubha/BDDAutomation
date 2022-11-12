@@ -22,5 +22,14 @@ Feature: Login page scenarios
 	  And User enter incorrect password into textbox
 	  And User click on submit button
 	  Then User veify error message
+	  
+	  
+	  @shashank
+	Scenario: Negitive login
+	Given User should be open the facebook login page
+	 When User enter incorrect user name in to textbox
+	  And User enter incorrect password into textbox
+	  And User click on submit button
+	  Then User veify error message
   
   
