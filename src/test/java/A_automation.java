@@ -11,8 +11,10 @@ public class A_automation {
     int c=50;
    System.out.println(d+c);
       
-      
-      
+      byte f=20;
+      short t=50;
+      int o=70;
+      System.out.println(f+t+o);
       
       
 	}
