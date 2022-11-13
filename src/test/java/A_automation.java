@@ -6,6 +6,15 @@ public class A_automation {
        String a="bhaskar";
        String b="velpula";
       System.out.println(b+a);
+      
+    int d=40;
+    int c=50;
+   System.out.println(d+c);
+      
+      
+      
+      
+      
 	}
 
 }
