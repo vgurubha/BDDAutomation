@@ -16,6 +16,13 @@ public class A_automation {
       int o=70;
       System.out.println(f+t+o);
       
+      float s=30.5f;
+      double l=30.5;
+      System.out.println(s+l);
+      
+      
+      
+      
       
 	}
 
