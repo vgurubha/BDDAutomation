@@ -10,6 +10,8 @@ public class abc {
 		float f=20.5f;
 		double g=50.5;
 		System.out.println(a+b+c+d+f+g);
+	String A="bjvieine";
+	String B="gfydguwg";
 	}
 
 }
